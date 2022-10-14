@@ -1,9 +1,10 @@
 .todoContainer {
     width: 500px;
     margin: 100px auto;
-  
+    background-color: rgba(138, 8, 105, 0.479);
     display: flex;
     flex-direction: column;
+    padding: 10px;
   }
   
   .todoCreateForm {

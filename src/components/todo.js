@@ -49,7 +49,7 @@ export default function Todo({ item, onUpdate, onComplete, onDelete }) {
           <span
             className="todoTitle"
             style={{
-              color: item.completed ? "#ccc" : "",
+              color: item.completed ? "#787070" : "",
               textDecoration: item.completed ? "line-through" : "",
             }}
           >
